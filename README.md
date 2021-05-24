@@ -1,2 +1,2 @@
 # ams
-Auromated malware scanner for linux Deb|Ubuntu
+Automated malware scanner for linux Deb|Ubuntu
