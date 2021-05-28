@@ -1,10 +1,4 @@
 #!/bin/bash
-#
-#
-#
-#
-#
-
 
 GREEN_TEXT="\033[32m"
 RED_TEXT="\033[31m"
@@ -13,9 +7,6 @@ if [ "$EUID" -ne 0 ]
   then echo -e "Please use ${RED_TEXT}root${GREEN_TEXT}for this installer"
   exit
 fi
-
-
-
 
 echo "{i}-------------------------------------{i}"
 echo "  Note: Ok We Starting.........   "
