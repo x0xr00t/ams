@@ -34,7 +34,7 @@ else
     sudo apt install chkrootkit -y
 fi
 rkh="rkhunter"
-if [ -x /bin/sqlplus ]; then
+if [ -x /bin/rkhunter ]; then
     echo "{v}It appears that $rkh exists :D"
 else
     echo "{x} Arggg...It appears that $rkh does not exist, we will install it."
