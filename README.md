@@ -11,3 +11,5 @@ chmod +x asm && cp asm /usr/bin/ << use root
 asm 
 
 
+# Future adds... 
+Build for fedora like systems
