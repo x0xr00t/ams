@@ -8,7 +8,7 @@ chmod +x install.sh && ./install << use root
 chmod +x asm && cp asm /usr/bin/ << use root
 
 # run
-asm 
+asm << smart to keep using root 
 
 
 # Future adds... 
