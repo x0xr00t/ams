@@ -1,4 +1,3 @@
-
 #!/bin/bash
 #
 # Author: p hoogeveen
