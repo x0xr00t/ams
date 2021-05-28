@@ -3,7 +3,7 @@
 # Author: p hoogeveen
 # Aka   : x0xr00t
 # Build : 0000000
-# Name  : scan
+# Name  : asm
 
 exec lynis audit system &
 while ps axg | grep -vw grep | grep -w lynis > /dev/null; do sleep 1; done
