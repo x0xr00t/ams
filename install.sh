@@ -11,7 +11,7 @@ fi
 echo "{i}-------------------------------------{i}"
 echo "  Note: Ok We Starting.........   "
 echo "  Don't Be A Dummy And Cancel........   "
-echo "  Don't Close The Terinal .......   "
+echo "  Don't Close The Terminal .......   "
 echo "  Proceeding......Be Patiant....."
 echo "  Installing......Apt Sources....."
 echo "{i}-------------------------------------{i}"
